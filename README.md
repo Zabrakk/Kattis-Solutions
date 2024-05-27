@@ -3,6 +3,8 @@
 This repository includes my solutions to programming problems from [open.kattis](https://open.kattis.com/).
 ## Solved Problems
 <sub><i>Created with [KattisToGithub](https://github.com/Zabrakk/KattisToGithub)</i></sub>
+
+Number of problems solved: **172**
 |Problem|Difficulty|Solutions|
 |:-|:-|:-|
 |[A List Game](https://open.kattis.com/problems/listgame)|Medium|[Python 3](Solutions/listgame.py)
