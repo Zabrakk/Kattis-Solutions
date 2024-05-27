@@ -21,7 +21,7 @@ Number of problems solved: **172**
 |[ASCII Kassi 2](https://open.kattis.com/problems/asciikassi2)|Easy|[Python 3](Solutions/asciikassi2.py)
 |[ASCII kassi](https://open.kattis.com/problems/asciikassi)|Easy|[Python 3](Solutions/asciikassi.py)
 |[Aaah!](https://open.kattis.com/problems/aaah)|Easy|[Python 3](Solutions/aaah.py)
-|[Add Two Numbers](https://open.kattis.com/problems/addtwonumbers)|Easy|[Python 3](Solutions/addtwonumbers.py) [Go](Solutions/addtwonumbers.go)
+|[Add Two Numbers](https://open.kattis.com/problems/addtwonumbers)|Easy|[Python 3](Solutions/addtwonumbers.py), [Go](Solutions/addtwonumbers.go)
 |[Alphabet Spam](https://open.kattis.com/problems/alphabetspam)|Easy|[Python 3](Solutions/alphabetspam.py)
 |[Arm Coordination](https://open.kattis.com/problems/armcoordination)|Easy|[Python 3](Solutions/armcoordination.py)
 |[Arrangement](https://open.kattis.com/problems/upprodun)|Easy|[Python 3](Solutions/upprodun.py)
