@@ -4,7 +4,7 @@ This repository includes my solutions to programming problems from [open.kattis]
 ## Solved Problems
 <sub><i>Created with [KattisToGithub](https://github.com/Zabrakk/KattisToGithub)</i></sub>
 
-Number of problems solved: **220**
+Number of problems solved: **222**
 |Problem|Difficulty|Solutions|
 |:-|:-|:-|
 |[A List Game](https://open.kattis.com/problems/listgame)|Medium|[Python 3](Solutions/listgame.py)
@@ -19,6 +19,8 @@ Number of problems solved: **220**
 |[Parsing Hex](https://open.kattis.com/problems/parsinghex)|Medium|[Python 3](Solutions/parsinghex.py)
 |[Simplicity](https://open.kattis.com/problems/simplicity)|Medium|[Python 3](Solutions/simplicity.py)
 |[Snapper Chain (Easy)](https://open.kattis.com/problems/snappereasy)|Medium|[Python 3](Solutions/snappereasy.py)
+|[Calculator](https://open.kattis.com/problems/calculator)|Medium|[Python 3](Solutions/calculator.py)
+|[Sort](https://open.kattis.com/problems/sort)|Medium|[Python 3](Solutions/sort.py)
 |[A Different Problem](https://open.kattis.com/problems/different)|Easy|[Python 3](Solutions/different.py)
 |[ABC](https://open.kattis.com/problems/abc)|Easy|[Python 3](Solutions/abc.py)
 |[ASCII Kassi 2](https://open.kattis.com/problems/asciikassi2)|Easy|[Python 3](Solutions/asciikassi2.py)
