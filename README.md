@@ -4,7 +4,7 @@ This repository includes my solutions to programming problems from [open.kattis]
 ## Solved Problems
 <sub><i>Created with [KattisToGithub](https://github.com/Zabrakk/KattisToGithub)</i></sub>
 
-Number of problems solved: **222**
+Number of problems solved: **224**
 |Problem|Difficulty|Solutions|
 |:-|:-|:-|
 |[A List Game](https://open.kattis.com/problems/listgame)|Medium|[Python 3](Solutions/listgame.py)
@@ -12,6 +12,7 @@ Number of problems solved: **222**
 |[Another Candies](https://open.kattis.com/problems/anothercandies)|Medium|[Python 3](Solutions/anothercandies.py)
 |[Ball Bearings](https://open.kattis.com/problems/ballbearings)|Medium|[Python 3](Solutions/ballbearings.py)
 |[Beekeeper](https://open.kattis.com/problems/beekeeper)|Medium|[Python 3](Solutions/beekeeper.py)
+|[Calculator](https://open.kattis.com/problems/calculator)|Medium|[Python 3](Solutions/calculator.py)
 |[Counting Stars](https://open.kattis.com/problems/countingstars)|Medium|[Python 3](Solutions/countingstars.py)
 |[Happy Telephones](https://open.kattis.com/problems/telephones)|Medium|[Python 3](Solutions/telephones.py)
 |[Horror List](https://open.kattis.com/problems/horror)|Medium|[Python 3](Solutions/horror.py)
@@ -19,7 +20,6 @@ Number of problems solved: **222**
 |[Parsing Hex](https://open.kattis.com/problems/parsinghex)|Medium|[Python 3](Solutions/parsinghex.py)
 |[Simplicity](https://open.kattis.com/problems/simplicity)|Medium|[Python 3](Solutions/simplicity.py)
 |[Snapper Chain (Easy)](https://open.kattis.com/problems/snappereasy)|Medium|[Python 3](Solutions/snappereasy.py)
-|[Calculator](https://open.kattis.com/problems/calculator)|Medium|[Python 3](Solutions/calculator.py)
 |[Sort](https://open.kattis.com/problems/sort)|Medium|[Python 3](Solutions/sort.py)
 |[A Different Problem](https://open.kattis.com/problems/different)|Easy|[Python 3](Solutions/different.py)
 |[ABC](https://open.kattis.com/problems/abc)|Easy|[Python 3](Solutions/abc.py)
@@ -229,3 +229,5 @@ Number of problems solved: **222**
 |[Weak Vertices](https://open.kattis.com/problems/weakvertices)|Easy|[Python 3](Solutions/weakvertices.py)
 |[Zoom](https://open.kattis.com/problems/zoom)|Easy|[Python 3](Solutions/zoom.py)
 |[Úllen dúllen doff](https://open.kattis.com/problems/ullendullendoff)|Easy|[Python 3](Solutions/ullendullendoff.py)
+|[Mult!](https://open.kattis.com/problems/mult)|Easy|[Python 3](Solutions/mult.py)
+|[NOP](https://open.kattis.com/problems/nop)|Easy|[Python 3](Solutions/nop.py)
