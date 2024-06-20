@@ -4,7 +4,7 @@ This repository includes my solutions to programming problems from [open.kattis]
 ## Solved Problems
 <sub><i>Created with [KattisToGithub](https://github.com/Zabrakk/KattisToGithub)</i></sub>
 
-Number of problems solved: **224**
+Number of problems solved: **226**
 |Problem|Difficulty|Solutions|
 |:-|:-|:-|
 |[A List Game](https://open.kattis.com/problems/listgame)|Medium|[Python 3](Solutions/listgame.py)
@@ -21,6 +21,8 @@ Number of problems solved: **224**
 |[Simplicity](https://open.kattis.com/problems/simplicity)|Medium|[Python 3](Solutions/simplicity.py)
 |[Snapper Chain (Easy)](https://open.kattis.com/problems/snappereasy)|Medium|[Python 3](Solutions/snappereasy.py)
 |[Sort](https://open.kattis.com/problems/sort)|Medium|[Python 3](Solutions/sort.py)
+|[DVDs](https://open.kattis.com/problems/dvds)|Medium|[Python 3](Solutions/dvds.py)
+|[Temperature Confusion](https://open.kattis.com/problems/temperatureconfusion)|Medium|[Python 3](Solutions/temperatureconfusion.py)
 |[A Different Problem](https://open.kattis.com/problems/different)|Easy|[Python 3](Solutions/different.py)
 |[ABC](https://open.kattis.com/problems/abc)|Easy|[Python 3](Solutions/abc.py)
 |[ASCII Kassi 2](https://open.kattis.com/problems/asciikassi2)|Easy|[Python 3](Solutions/asciikassi2.py)
@@ -161,10 +163,12 @@ Number of problems solved: **224**
 |[Mixed Fractions](https://open.kattis.com/problems/mixedfractions)|Easy|[Python 3](Solutions/mixedfractions.py)
 |[Moderate Pace](https://open.kattis.com/problems/moderatepace)|Easy|[Python 3](Solutions/moderatepace.py)
 |[Modulo](https://open.kattis.com/problems/modulo)|Easy|[Python 3](Solutions/modulo.py)
+|[Mult!](https://open.kattis.com/problems/mult)|Easy|[Python 3](Solutions/mult.py)
 |[Mumble Rap](https://open.kattis.com/problems/mumblerap)|Easy|[Python 3](Solutions/mumblerap.py)
 |[Mylla](https://open.kattis.com/problems/mylla2)|Easy|[Python 3](Solutions/mylla2.py)
 |[Mæting](https://open.kattis.com/problems/maeting)|Easy|[Python 3](Solutions/maeting.py)
 |[N-sum](https://open.kattis.com/problems/nsum)|Easy|[Python 3](Solutions/nsum.py)
+|[NOP](https://open.kattis.com/problems/nop)|Easy|[Python 3](Solutions/nop.py)
 |[Number Fun](https://open.kattis.com/problems/numberfun)|Easy|[Python 3](Solutions/numberfun.py)
 |[Odd Man Out](https://open.kattis.com/problems/oddmanout)|Easy|[Python 3](Solutions/oddmanout.py)
 |[Oddities](https://open.kattis.com/problems/oddities)|Easy|[Python 3](Solutions/oddities.py)
@@ -229,5 +233,3 @@ Number of problems solved: **224**
 |[Weak Vertices](https://open.kattis.com/problems/weakvertices)|Easy|[Python 3](Solutions/weakvertices.py)
 |[Zoom](https://open.kattis.com/problems/zoom)|Easy|[Python 3](Solutions/zoom.py)
 |[Úllen dúllen doff](https://open.kattis.com/problems/ullendullendoff)|Easy|[Python 3](Solutions/ullendullendoff.py)
-|[Mult!](https://open.kattis.com/problems/mult)|Easy|[Python 3](Solutions/mult.py)
-|[NOP](https://open.kattis.com/problems/nop)|Easy|[Python 3](Solutions/nop.py)
